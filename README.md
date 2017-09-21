@@ -27,8 +27,8 @@ WorkerRole to perform latency measurement in Azure Cloud Service for **Mongo API
     <appSettings>
        <add key="MongoUserName" value="YOUR_MONGO_USER_NAME" /> 
        <add key="MongoPassword" value="YOUR_MONGO_PASSWORD" />
-       <add key="MongoDefaultEndpoint" value="YOUR_MONGO_HOST" /> <!-example:my-mongo.documents.azure.com-->
-       <add key="DocumentDbEndPoint" value="https:// followed by YOUR_MONGO_HOST" /> <!-example:https://my-mongo.documents.azure.com-->
+       <add key="MongoDefaultEndpoint" value="YOUR_MONGO_HOST" /> <!--example:my-mongo.documents.azure.com-->
+       <add key="DocumentDbEndPoint" value="https:// followed by YOUR_MONGO_HOST" /> <!--example:https://my-mongo.documents.azure.com-->
     </appSettings>
     ```
 4. Package the Cloud Service
