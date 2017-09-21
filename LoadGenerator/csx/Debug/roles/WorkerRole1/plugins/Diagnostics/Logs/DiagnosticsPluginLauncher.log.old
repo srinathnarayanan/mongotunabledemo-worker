@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:55 PM] Emulator config file set to E:\mongoGeoDemo\LoadGenerator\LoadGenerator\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:55 PM] DiagnosticsStoreRootPath set to: C:\Users\srnara\AppData\Local\dftmp\Resources\9dd5a335-4c6e-40d8-9780-de750d567e07
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:55 PM] Loading config file: E:\mongoGeoDemo\LoadGenerator\LoadGenerator\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:55 PM] Config file to read: E:\mongoGeoDemo\LoadGenerator\LoadGenerator\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:55 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:55 PM] Emulator config file set to E:\mongoGeoDemo\LoadGenerator\LoadGenerator\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:55 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:55 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:55 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:55 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:56 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:56 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:56 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:56 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:07:56 PM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:09:06 PM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:09:06 PM] DiagnosticPlugin exited with code 0

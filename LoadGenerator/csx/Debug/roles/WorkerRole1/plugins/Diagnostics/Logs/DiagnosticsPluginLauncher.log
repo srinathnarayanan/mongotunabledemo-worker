@@ -1,0 +1,10 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:18:06 PM] Emulator config file set to E:\mongoGeoDemo\LoadGenerator\LoadGenerator\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:18:06 PM] DiagnosticsStoreRootPath set to: C:\Users\srnara\AppData\Local\dftmp\Resources\9dd5a335-4c6e-40d8-9780-de750d567e07
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:18:06 PM] Loading config file: E:\mongoGeoDemo\LoadGenerator\LoadGenerator\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:18:06 PM] Config file to read: E:\mongoGeoDemo\LoadGenerator\LoadGenerator\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:18:06 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:18:06 PM] Emulator config file set to E:\mongoGeoDemo\LoadGenerator\LoadGenerator\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:18:06 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:18:06 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:18:06 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [9/19/2017 7:18:06 PM] Stopping the running plugin, if any
