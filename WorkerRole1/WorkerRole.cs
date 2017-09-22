@@ -25,7 +25,6 @@ namespace WorkerRole1
         private const int CooldownIntervalinMS = 2000; //2 seconds
         private const int OperationCount = 1000;
         private const int MetricsRecordCount = 100;
-        private const int MongoPort = 10255;
         private const int PayloadLength = 1024;
         private const string ReadPayloadTypeStr = "readPayload";
         private const string WritePayloadTypeStr = "writePayload";
@@ -43,6 +42,7 @@ namespace WorkerRole1
         private string MongoPassword = ConfigurationManager.AppSettings["MongoPassword"];
         private string MongoDefaultEndpoint = ConfigurationManager.AppSettings["MongoDefaultEndpoint"];
         private string DocumentDbEndPoint = ConfigurationManager.AppSettings["DocumentDbEndPoint"];
+        private int MongoPort = Int32.Parse(ConfigurationManager.AppSettings["MongoPort"]);
 
         private TimeSpan MetricsCleanupInterval = new TimeSpan(0, 2, 0); //clean up metrics every 20 minutes
         private Stopwatch latencyWatch = new Stopwatch();
@@ -377,7 +377,7 @@ namespace WorkerRole1
             string mongoPassword = MongoPassword;
 
             MongoClientSettings settings = new MongoClientSettings();
-            settings.Server = new MongoServerAddress(mongoHost, WorkerRole.MongoPort);
+            settings.Server = new MongoServerAddress(mongoHost, MongoPort);
             settings.UseSsl = true;
             settings.VerifySslCertificate = true;
             settings.SslSettings = new SslSettings();
